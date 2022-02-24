@@ -1,0 +1,578 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd before the King and Queen in Their Majesties chappel at St. James's, on the twentieth Sunday after Pentecost, Octob. 25. 1685 by the Reverend Father John Persall ...</title>
+            <author>Persall, John, 1633-1702.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54461</idno>
+            <idno type="STC">Wing P1652</idno>
+            <idno type="STC">ESTC R11063</idno>
+            <idno type="EEBO-CITATION">12199335</idno>
+            <idno type="OCLC">ocm 12199335</idno>
+            <idno type="VID">56078</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56078)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:52)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd before the King and Queen in Their Majesties chappel at St. James's, on the twentieth Sunday after Pentecost, Octob. 25. 1685 by the Reverend Father John Persall ...</title>
+                  <author>Persall, John, 1633-1702.</author>
+               </titleStmt>
+               <extent>[2], 25, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56078:1"/>
+            <pb facs="tcp:56078:1"/>
+            <p>A SERMON Preach'd before the King and Queen, IN Their MAJESTIES
+Chappel at St. <hi>James</hi>'s, on the Twentieth <hi>Sunday</hi> after
+<hi>Pentecoſt, Octob.</hi> 25. 1685.</p>
+            <p>By the Reverend Father <hi>JOHN PERSALL,</hi> Of the Society of
+JESUS, Profeſſor of Divinity.</p>
+            <p>
+               <hi>Publiſhed by His Majeſties Command.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Henry Hills,</hi> Printer to the
+King's moſt Excellent Majeſty, for his Houſhold and Chappel. 1686.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:56078:2"/>
+            <pb n="1" facs="tcp:56078:2"/>
+            <head>A SERMON Preach'd before THEIR MAJESTIES, On the Twentieth
+<hi>Sunday</hi> after <hi>Pentecoſt, Octob.</hi> 25. 1685.</head>
+            <epigraph>
+               <q>
+                  <p>Erat quidam Regulus, cujus filius infir<g ref="char:EOLhyphen"/>mabatur.</p>
+                  <bibl>
+                     <hi>Joannis c.</hi> 4. <hi>v.</hi> 48.</bibl>
+                  <p>There was a certain Nobleman, whoſe ſon was ſick.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>HE Holy Church, in this Days Goſpel, invites us all to the
+Bed-ſide of a Rich, Noble, Young, but Dy<g ref="char:EOLhyphen"/>ing Prince, who lies groan<g ref="char:EOLhyphen"/>ing at
+Deaths-door, and notwithſtand<g ref="char:EOLhyphen"/>ing <pb n="2" facs="tcp:56078:3"/>his Plenty of other
+things, is be<g ref="char:EOLhyphen"/>come a Beggar for a little Breath, which all the Power of the
+World is not able to afford him. I wiſh, that the Followers of Senſuality,
+who make Pleaſure their God, live as if they were never to die, imagine Time
+to ſtand, and laugh at Diſcourſes of another World, as Fables only for
+the Enter<g ref="char:EOLhyphen"/>tainment and Paſtime of this: I wiſh (I ſay) they would turn
+their Thoughts hither a little while, and behold the diſmal Theatre, whereon
+every one of them muſt one day infallibly act the ſame Part, which now this
+Noble Youth repreſents before them; trem<g ref="char:EOLhyphen"/>bling betwixt two great Eternities,
+of Happineſs above, and Miſery below, and uncertain which of the two is to
+be their Lot. Now, tho' we go no further, certainly the Pangs of a dying
+Prince, and Death triumphing over Wealth, Nobility, and Youth, is an Emblem,
+clear enough, of the Vanity and Uncertainty of Worldly Happi<g ref="char:EOLhyphen"/>neſs,
+<pb n="3" facs="tcp:56078:3"/>and might well deſerve to be the Subject of our preſent
+Conſideration.<note place="margin">Serm. 44. de Verbis Do<g ref="char:EOLhyphen"/>mini.</note> But
+becauſe I hear the Great St. <hi>Au<g ref="char:EOLhyphen"/>guſtin (ſpeaking of our Saviour's
+reſto<g ref="char:EOLhyphen"/>ring the Widows Son to Life)</hi> adviſe us, That it was our LORD's
+Intention, that, by what he acted viſibly towards the Body, we ſhould
+underſtand his in<g ref="char:EOLhyphen"/>viſible Operations on the Soul, apply<g ref="char:EOLhyphen"/>ing all his
+exteriour and Corporal Per<g ref="char:EOLhyphen"/>formances, to an interiour and Spiritu<g ref="char:EOLhyphen"/>al Senſe:
+<hi>Dominus noſter JES<g ref="char:V">Ʋ</g>S CHRI<g ref="char:EOLhyphen"/>ST<g ref="char:V">Ʋ</g>S ea, quae faciebat corporalitèr,
+ſpi<g ref="char:EOLhyphen"/>ritualitèr volebat intelligi.</hi> It ſhall there<g ref="char:EOLhyphen"/>fore be my
+preſent Endeavour, Firſt, by the Sickneſs of this Youth, to lay before
+your Eyes the Sickneſs of a Soul in Sin; and, Secondly, from the
+Circumſtances of his Cure, we'l gather the Means for the Curing of our Souls.
+But becauſe I am too conſcious of my own Weakneſs, to hope for any Fruit
+from my Words, unleſs the Ho<g ref="char:EOLhyphen"/>ly Ghoſt vouchſafe to put them in my Mouth,
+and ſpeak them again to the <pb n="4" facs="tcp:56078:4"/>Hearts of my Hearers, I muſt
+have recourſe to the <hi>Bleſſed Virgin,</hi> whoſe powerful
+Interceſſion is an Aquaeduct or Channel (as the devout St.
+<hi>Ber<g ref="char:EOLhyphen"/>nard</hi> aſſures us) through which Ce<g ref="char:EOLhyphen"/>leſtial Gifts are conveyed
+unto us. Wherefore let us humbly invoke the ſame, ſaluting her with the
+Angel, <hi>Ave Maria, &amp;c.</hi>
+               <q>Erat quidam Regulus, &amp;c.</q>
+            </p>
+            <p>IT being then my intent by the vi<g ref="char:EOLhyphen"/>ſible Sickneſs of the Body
+to diſco<g ref="char:EOLhyphen"/>ver the inviſible Sickneſs of the Soul, let us enter a little
+into the Chamber of this Dying Prince, which probably you will find adorn'd
+with the richeſt Tapeſtry, beautify'd with choice Cabi<g ref="char:EOLhyphen"/>nets, and ſet out
+with other Moveables of the higheſt Price: The Curtains, Vallence, and Canopy
+of the Bed, all proportionable to the Nobility and Greatneſs of their
+Maſter; but approach a little towards that ſtately Bed, draw
+<pb n="5" facs="tcp:56078:4"/>open thoſe Royal Curtains, and ſee what lies within: A
+gaſping Life, an half-living Death, a breathing Carcaſs! His ſinking Eyes
+already ſeek their Grave: his pale and wan Countenance puts us in mind of his
+Winding-ſheet: the feeble and unactive Condition of his Body declares, that
+he is Death's Cloſe Priſoner: the Panting of his Heart is a ſad warning,
+that the fatal Stroke is ready to be given, which muſt break aſunder the
+Gordian Tye be<g ref="char:EOLhyphen"/>twixt Soul and Body. And is this He, on whom ſo much Gallantry
+do's at<g ref="char:EOLhyphen"/>tend? Is it to him, thoſe Hangings, Cabinets, and Embroider'd
+Curtains do belong? This certainly is the Fable in<g ref="char:EOLhyphen"/>verted, and not a Pearl on a
+Dunghil, but a Dunghil in the midſt of Pearls.</p>
+            <p>Theſe were the viſible Effects and Conſequences of this
+Prince's Corporal Sickneſs: Let us now try, how far they will lead us towards
+the Diſcovery of the inviſible Effects of a Spiritual Diſ<g ref="char:EOLhyphen"/>eaſe.
+<pb n="6" facs="tcp:56078:5"/>If you view the Chamber or Bed, wherein a dying Soul lies
+gaſp<g ref="char:EOLhyphen"/>ing, what for the moſt part more glo<g ref="char:EOLhyphen"/>rious? It is one perhaps of
+theſe trimm'd-up Beauties of the World, which ſeem to out-ſhine the Suns
+brighteſt Beams. Gold, Silver, Pearls, and whatſoever the blind World calls
+Precious, is all too little to ſet them out. But turn hither the Eyes of your
+Underſtanding, draw open thoſe gay Curtains by a ſerious Conſideration,
+and look on that Soul, which lies with<g ref="char:EOLhyphen"/>in them. <hi>O quale Monſtrum! What a
+Monſter!</hi> Had we Eyes of Angels, it would appear far more hideous to us,
+than the expiring Carcaſs, which we juſt now beheld. The Poyſon of his
+Diſeaſe had dry'd and wither'd up his Body, conſum'd all his Spirits, and
+the Soul being now ready to depart, all the Train of Beauteous Features had
+al<g ref="char:EOLhyphen"/>ready taken their leave. But the Poy<g ref="char:EOLhyphen"/>ſon of Sin is yet far ranker, and its
+Effects upon a poor infected Soul far <pb n="7" facs="tcp:56078:5"/>more deplorable. It
+conſumes to no<g ref="char:EOLhyphen"/>thing all her Subſtance, all the Stock of Grace whereby
+ſhe flouriſht. The Sun of Juſtice, her only Life, is ready to withdraw
+his Divine Rays, and conſe<g ref="char:EOLhyphen"/>quently all the Flowers of Vertue muſt needs dry
+up and wither; ſo that ſhe, who before had Beauty enough to ena<g ref="char:EOLhyphen"/>mour the
+very Fountain of Beauty, is now become the Source of a Poyſon, rank enough to
+infect the whole World. She is a meer Sink of Loathſomneſs and Corruption.
+What is ſhe elſe, but a putrifying Carcaſs, feeding the Worms of a bad
+Conſcience, and en<g ref="char:EOLhyphen"/>gendring innumerable venemous In<g ref="char:EOLhyphen"/>fects, I mean, the
+curſed Brood of vi<g ref="char:EOLhyphen"/>cious Habits? She breaths forth ſuch a Stench, that were
+our Corporeal Senſes capable of being wrought on by Spi<g ref="char:EOLhyphen"/>ritual Objects, it
+would not be poſſi<g ref="char:EOLhyphen"/>ble for us, to live within the Sphere of its Activity.
+For the truth of all this, I appeal to thoſe Saints, to whom Al<g ref="char:EOLhyphen"/>mighty God
+has given a more pecu<g ref="char:EOLhyphen"/>liar <pb n="8" facs="tcp:56078:6"/>Light, for the diſcovering the
+Hor<g ref="char:EOLhyphen"/>rour and Uglineſs of Sin. St. <hi>Chryſo<g ref="char:EOLhyphen"/>ſtom</hi> calls Sin the only
+Evil, aſſerting, <hi>That we ought to abhor nothing but Sin, no not even
+Hell it ſelf.</hi> And the Rea<g ref="char:EOLhyphen"/>ſon hereof will appear clearly, if we
+conſider the Nature of an Humane Soul. She is created to the perfect Image of
+her Creator, and participates in an high Degree of his Divine Eſ<g ref="char:EOLhyphen"/>ſence,
+<hi>Divinae Particula Aurae:</hi> Hence ſhe has in her a ſtrong and
+forcible Appetite of being united to her God, and conſequently cannot be at
+reſt, whilſt ſhe is ſeparated from him; but in this Night of Sin, the
+Fogs, ariſing from a corrupted Will, do ſo obſcure the Underſtanding,
+that, tho' the Soul perceives an unquiet Appetite within her ſelf of ſome
+great Good, yet what that Good is, or where to find it, ſhe knows not, and
+falls on that which comes next, Senſual Pleaſures, Riches, Honours,
+miſtaking the Rivulets for the Fountains, but ſtill ends with a
+<pb n="9" facs="tcp:56078:6"/>Reſtleſneſs and Diſſatisfaction. So
+<hi>So<g ref="char:EOLhyphen"/>lomon,</hi> after he had glutted himſelf with all the Pleaſures ſo
+great a Know<g ref="char:EOLhyphen"/>ledge could invent, and ſo great a Power could procure,
+<hi>Quicquid deſide<g ref="char:EOLhyphen"/>raverunt oculi mei, non negavi eis, quin omni voluptate
+fruerentur;</hi> he experi<g ref="char:EOLhyphen"/>enc'd in all <hi>Vanitatem,</hi> a certain
+Empti<g ref="char:EOLhyphen"/>tineſs, <hi>Afflictionem ſpiritus,</hi> an Afflicti<g ref="char:EOLhyphen"/>on of Mind;
+becauſe Nothing is good, or according to the innate Appetite of the Soul, but
+GOD; on the other ſide, nothing is ill, or contrary to this innate Appetite,
+but Sin. And hence it was, that thoſe <hi>Pauls, Antho<g ref="char:EOLhyphen"/>nies, Hilaries,</hi>
+who liv'd on raw Herbs, lay on the hard Ground, ſpent their Days in Prayer
+and Mortification, and were depriv'd of all the Delights of Senſe, never
+complain'd of Miſery, be<g ref="char:EOLhyphen"/>cauſe having God, and being united to him, they
+ſeem'd to want nothing; whereas <hi>Solomon,</hi> tho' abounding with Riches,
+being without God, ſeem'd to have nothing. So true it is, that there
+<pb n="10" facs="tcp:56078:7"/>is nothing ſatisfactory to the Rational Soul, but God; and
+nothing hurtful or grievous to it, but Sin. The Holy Archbiſhop of
+<hi>Canterbury,</hi> St. <hi>Anſelm,</hi> pro<g ref="char:EOLhyphen"/>teſts, That he would rather
+leap into the eternal Flames of Hell <hi>purus a peccato,</hi> free from Sin,
+than <hi>peccati labe pollu<g ref="char:EOLhyphen"/>tus coelorum regna tenere,</hi> defil'd with Sin to
+poſſeſs Heaven. St. <hi>Auguſtine</hi> has many things to the ſame
+purpoſe; but none more emphatically deſcribes this Plague than St.
+<hi>Peter Chryſologus. 'Tis the nature of Sin,</hi> ſays he, <hi>to breathe
+forth a certain venemous Vapour in the Soul, which ſo dims the two Lights of
+Faith and Reaſon, that it leaves her wholly in Darkneſs: So that being led
+by Paſſion, ſhe throws her ſelf from one Precipice to another, till
+ſhe comes at length to the very Brink of Hell, and yet ſees not all this
+while, whither ſhe has faln, or how near ſhe is to her eter<g ref="char:EOLhyphen"/>nal Ruine.
+Beſides this, her Fever af<g ref="char:EOLhyphen"/>flicts her with an inſatiable Thirſt of all
+thoſe things which increaſe her Diſ<g ref="char:EOLhyphen"/>eaſe; <pb n="11" facs="tcp:56078:7"/>and, on
+the contrary ſide,</hi> Fonti<g ref="char:EOLhyphen"/>bus dulciſſimis amara ſalſedo, <hi>it
+ſo ſpoils and vitiates her Taſte, that thoſe Fountains of Graces and
+Spiritual Com<g ref="char:EOLhyphen"/>forts, the</hi> Sacraments, Sermons, Spiritu<g ref="char:EOLhyphen"/>al Books, <hi>and
+the like, which to a Soul in Health are moſt ſavory and delicious, to her
+are as bitter as Gall.</hi> To this purpoſe St. <hi>Chryſologus.</hi> By
+which ſuf<g ref="char:EOLhyphen"/>ficiently appears the deplorable Con<g ref="char:EOLhyphen"/>dition of a Soul in Sin, had
+we a Senſe or Underſtanding capable of con<g ref="char:EOLhyphen"/>ceiving it. But as the
+Sickneſs of the Body is never the leſs dangerous, be<g ref="char:EOLhyphen"/>cauſe the Patient
+perceives not the Ma<g ref="char:EOLhyphen"/>lignity of his Diſeaſe: So the Condi<g ref="char:EOLhyphen"/>tion of a Sick
+Soul is never the leſs miſerable, becauſe in this Lethargy of Fleſh and
+Blood, ſhe diſcerns not her own Miſery. And now, if nothing elſe will
+ſerve the turn, let at leaſt the Danger of an Everlaſting Death move us
+to look after a Cure, and that as earneſtly and efficaciouſly, as the thing
+deſerves. When a wiſe and <pb n="12" facs="tcp:56078:8"/>skilful Phyſician tells his
+Patient, that he is in Danger of Death, it makes him preſently ſeek a
+Remedy, attend to the Phyſician's Preſcriptions, and put all diligently in
+execution. But what is the Death of the Body, com<g ref="char:EOLhyphen"/>par'd with the Death of the
+Soul? That is only Temporal; This, Eternal: That implies a Separation of the
+Bo<g ref="char:EOLhyphen"/>dy from a Rational Soul; This, the Separation of the Soul from the Foun<g ref="char:EOLhyphen"/>tain
+of all Happineſs, Almighty God: That leaves the Body, bereav'd indeed of
+Senſe, yet without Pain; This bu<g ref="char:EOLhyphen"/>ries the Soul in Hell, there to ſuffer,
+and for ever, ſuch Torments, that all the Pains and Torments of this Life are
+nothing to them. When I ſome<g ref="char:EOLhyphen"/>times conſider with my ſelf, that it may be,
+it is not impoſſible, that I ſhould one day groan under the hea<g ref="char:EOLhyphen"/>vy Burden
+of Eternal Damnation, tho' I go no farther, reflecting only on a meer
+Poſſibility of ſo great a Miſery, it makes my whole Body tremble: My
+<pb n="13" facs="tcp:56078:8"/>Hair ſtands an end, my Heart pants, and my Bones are
+almoſt disjointed with Fear. But foraſmuch as concerns a Probability
+thereof, and ſuch a Pro<g ref="char:EOLhyphen"/>bability too, that the contrary is impro<g ref="char:EOLhyphen"/>bable, who
+is there that is not dead already, or quite void of Senſe, who can live with
+ſuch a Thought, under ſuch an Apprehenſion? And yet cer<g ref="char:EOLhyphen"/>tain it is, that
+thoſe who follow their ſenſual Inclinations, and ſcarce ever
+ſeriouſly think of their Souls, are in a Probability, and in a very great
+Pro<g ref="char:EOLhyphen"/>bability of being damn'd. Damn'd! Oh what a Deluge of Miſery is inclu<g ref="char:EOLhyphen"/>ded
+in that little word, <hi>Damn'd!</hi> Let theſe Conſiderations, Beloved
+Chriſti<g ref="char:EOLhyphen"/>ans, ſink into our Souls; Let a juſt Horrour of Sin ſeiſe
+upon our Hearts: And ſo diſpos'd, let us paſs to the Second Part, and
+learn to cure our Souls, by weighing the Circumſtances, and conſidering the
+Particulars of this young Prince's miraculous Cure.</p>
+            <pb n="14" facs="tcp:56078:9"/>
+            <p>The Father of our Sick Youth no ſooner heard of our Saviour's
+coming that way, but he preſently went unto him. The firſt thing then, we
+are to do, is to have recourſe to the Phyſi<g ref="char:EOLhyphen"/>cian. <hi>Abiit ad eum,</hi>
+ſays the Text, <hi>He departed unto him;</hi> the word <hi>Abiit</hi> here
+ſignifying not only a <hi>Going to,</hi> but a <hi>Going from.</hi> Many are
+willing enough to go to the Heavenly Phyſi<g ref="char:EOLhyphen"/>cian, on condition that they may
+not go from the World. They will (I ſay) go to him, but not follow his
+Advice, in parting with their Riches, Honour, Pleaſure, the Source and
+Ori<g ref="char:EOLhyphen"/>gine of their peccant Humour, and conſequently the Cauſe of their
+Di<g ref="char:EOLhyphen"/>ſtemper.</p>
+            <p>The ſecond thing is to Preſent him with our Petitions: <hi>Et
+rogabat eum: And he ask'd him.</hi> Some come to him, but, like the proud
+Phariſee, ask him nothing, juſtifying themſelves, and ſcorn<g ref="char:EOLhyphen"/>ing
+<pb n="15" facs="tcp:56078:9"/>to acknowledge their Wants, or any need they have of a
+Phyſician. <hi>Quid rogaverit Deum, quaere in verbis ejus, &amp; nihil
+invenies: Examine a little</hi> (ſays St. <hi>Auguſtine</hi>) <hi>the
+Phariſee's words, and ſee what he ask'd of God, and you ſhall find, that
+he ask'd nothing.</hi> This is not the way: But, on the contrary, we muſt
+with Humility own our Mi<g ref="char:EOLhyphen"/>ſery and Sickneſs, if ever we expect a Cure. We
+muſt <hi>rogare,</hi> beg with an humble Confidence, <hi>ut deſcendat,</hi>
+that he will come down to us; at leaſt, that he will be pleas'd to caſt
+down an Eye of Mercy upon our ſad and helpleſs Condition; and then we ought
+not to doubt of a Remedy from that Hand, which is ſo far from repelling us
+when we ask, that its Om<g ref="char:EOLhyphen"/>nipotent Bounty is always beckning to us, and
+encouraging us to ask.</p>
+            <p>The third thing which we ought to do, is of very great moment, and
+that, for want whereof, many have been eter<g ref="char:EOLhyphen"/>nally <pb n="16" facs="tcp:56078:10"/>loſt;
+and it is, not only to Go, nor only to Ask, but to do Both in time. 'Tis a
+dangerous thing to de<g ref="char:EOLhyphen"/>lay the Cure of our Souls. Alas! how many are there who
+at this inſtant fruit<g ref="char:EOLhyphen"/>leſly deplore in eternal Torments, that ever they put
+off ſo important a Con<g ref="char:EOLhyphen"/>cern? We muſt then in this imitate the Father of our
+Sick Youth, who was careful in the beginning. <hi>Incipie<g ref="char:EOLhyphen"/>bat mori; His Son
+began to die;</hi> and he was ſollicitous that our Saviour might come, before
+he had quite gi<g ref="char:EOLhyphen"/>ven up the Ghoſt. <hi>Deſcende, priuſquàm moriatur
+Filius meus: Come down</hi> (ſays he) <hi>before my Son dies.</hi> I am not
+ig<g ref="char:EOLhyphen"/>norant, that divers Interpreters, and ſome Holy Fathers alſo, accuſe
+theſe Words of want of Faith, as if an Om<g ref="char:EOLhyphen"/>nipotence could not as eaſily
+have re<g ref="char:EOLhyphen"/>ſtor'd him Dead to Life, as Sick to Health; yet they muſt all
+grant, that 'tis an excellent Prayer for a dying Soul, <hi>Do<g ref="char:EOLhyphen"/>mine, deſcende,
+priuſquàm moriatur Anima mea; Lord, vouchſafe to come, before my
+Soul dies.</hi>
+            </p>
+            <pb n="17" facs="tcp:56078:10"/>
+            <p>Conſider all the Cures, which our Saviour wrought, and you will
+ſtill find the appearance of moſt Difficulty, where the Diſeaſe had
+made the great<g ref="char:EOLhyphen"/>eſt Progreſs. <hi>Lazarus</hi> was dead, and now four days
+in his Grave, and how much is to be done to raiſe him? Firſt, Our Saviour
+muſt come in Per<g ref="char:EOLhyphen"/>ſon, tho' his Diſciples diſſuade him from expoſing
+himſelf to ſo much dan<g ref="char:EOLhyphen"/>ger. <hi>The Jews,</hi> ſaid they, <hi>did but
+juſt now endeavour to ſtone thee, and wilt thou again venture thy ſelf
+amongſt them?</hi> He goes notwithſtanding this, and be<g ref="char:EOLhyphen"/>ing come to the
+Monument, Firſt com<g ref="char:EOLhyphen"/>mands the Grave-ſtone to be remov'd, Then he afflicts
+himſelf, <hi>turbavit ſemet<g ref="char:EOLhyphen"/>ipſum,</hi> and even weeps, <hi>lacrimatus
+eſt JES<g ref="char:V">Ʋ</g>S:</hi> Then he prays to his Eter<g ref="char:EOLhyphen"/>nal Father; and at laſt
+<hi>voce magnâ cla<g ref="char:EOLhyphen"/>mavit,</hi> he cries out with a loud voice,
+<hi>Lazare, veni foras; Lazarus, come forth.</hi> What was all this for? Would
+not a <hi>Lazarus vivit, Lazarus lives,</hi> have done <pb n="18" facs="tcp:56078:11"/>the
+Buſineſs, tho' our Bleſſed Saviour had been as far diſtant from
+<hi>Lazarus,</hi> as he was now from our Sick Prince? It were a Blaſphemy to
+affirm the con<g ref="char:EOLhyphen"/>trary. But <hi>Lazarus,</hi> Dear Chriſtians, was the Type of
+an inveterate and hardned Sinner; and our Bleſſed Sa<g ref="char:EOLhyphen"/>viour on this
+occaſion was not ſo care<g ref="char:EOLhyphen"/>ful to let us ſee the Uncontrollable<g ref="char:EOLhyphen"/>neſs of
+his Omnipotence, as he was to ſhew us, how much it goes to his Heart, that a
+Sinner ſhould delay his Converſion, till he becomes buried in ill Habits,
+and is kept under Ground by the weighty Grave-ſtone of his own Obſtinacy;
+and withal, how dif<g ref="char:EOLhyphen"/>ficult it is, that ſuch an one ſhould be again
+reſtor'd to the Life of Grace.</p>
+            <p>The Widows Son was not yet bu<g ref="char:EOLhyphen"/>ry'd, but only carry'd out to
+Burial: <hi>Efferebatur filius unicus Matris ſuae.</hi> And conſequently
+our Saviour raiſes him with a far leſs appearance of dif<g ref="char:EOLhyphen"/>ficulty: He comes,
+but neither afflicts <pb n="19" facs="tcp:56078:11"/>himſelf, nor weeps; he only touches
+the Bier, and commands the dead Youth to riſe; <hi>Adoleſcens, tibi dico,
+Surge:</hi> and his Commands were preſently obey'd; for the dead Youth
+aroſe, <hi>Re<g ref="char:EOLhyphen"/>ſedit, qui erat mortuus.</hi>
+            </p>
+            <p>The Daughter of the Prince of the Synagogue was but newly dead,
+nei<g ref="char:EOLhyphen"/>ther buried, nor carry'd out to Buri<g ref="char:EOLhyphen"/>al. Our Saviour comes, and without
+ſpeaking to her, took her by the Hand, and rais'd her; <hi>Tenuit manum ejus,
+&amp; ſurrexit Puella.</hi>
+            </p>
+            <p>But our young Prince was not ſo much as dead, but only
+<hi>incipiebat mo<g ref="char:EOLhyphen"/>ri,</hi> he began to die, and ſo deſerv'd the eaſieſt
+Cure of all; for our Savi<g ref="char:EOLhyphen"/>our neither comes in Perſon, nor com<g ref="char:EOLhyphen"/>mands his
+Diſeaſe; but only tells his Father, <hi>Filius tuus vivit, Thy Son is
+well,</hi> and at that very hour <hi>reliquit eum Febris, his Fever left
+him.</hi> By all which our Saviour would teach us, how wil<g ref="char:EOLhyphen"/>ling
+<pb n="20" facs="tcp:56078:12"/>he is to hear a Sinners Petition, when it is preſented to
+him in time; and how unwillingly he hearkens to thoſe, who put off all to the
+laſt Point. Daily Experience teaches us this Leſ<g ref="char:EOLhyphen"/>ſon, there ſcarce
+being a Country which do's not afford us moſt terrible Hi<g ref="char:EOLhyphen"/>ſtories of
+thoſe, who, delaying from time to time the Amendment of their Lives, have
+felt the heavy Hand of God's Judgment, being taken at una<g ref="char:EOLhyphen"/>wares out of this
+Life, and in a mo<g ref="char:EOLhyphen"/>ment they leaſt ſuſpected, ſwallow'd up, and bury'd
+in Hell: <hi>Momento deſcen<g ref="char:EOLhyphen"/>dunt in Infernum.</hi>
+            </p>
+            <p>It is true, we have a good God, a merciful God, a patient God, who
+expects day after day the Converſion of a Sinner; but we muſt know, that a
+certain Period is pitch'd upon, and decreed from all Eternity, that will wholly
+ſtop the Current of Mercy, and open a way to Juſtice: for tho, as long as
+any Sinner lives in this <pb n="21" facs="tcp:56078:12"/>Life with the uſe of Reaſon,
+Almigh<g ref="char:EOLhyphen"/>ty God never denies him his ſuffici<g ref="char:EOLhyphen"/>ent Grace; yet after ſuch a
+determi<g ref="char:EOLhyphen"/>nate Period, he either takes him out of this Life, or permits him to
+fall into ſuch Blindneſs and Hardneſs of Heart, that he never will
+recover, tho' he always may: <hi>Sic enim</hi> (ſays St.
+<hi>Auguſtine</hi>) <hi>excaecat, ſic obdurat De<g ref="char:EOLhyphen"/>us, deſerendo, &amp; non
+adjuvando, quod occulto judicio facere poteſt, iniquo non poteſt: God do's
+ſo blind and ſo harden a Sinner, by forſaking him, and with<g ref="char:EOLhyphen"/>drawing his
+Help from him, as that his Judgment indeed is ſecret and hidden, but never
+unjuſt.</hi> For, <hi>Hoe eorum vo<g ref="char:EOLhyphen"/>luntatem meruiſſe Reſpondeo: I
+anſwer</hi> (ſays the ſame Saint) <hi>to thoſe who complain hereof,
+That this is what they themſelves</hi> (<hi>viz.</hi> by their own perverſe
+Will) <hi>have deſerv'd.</hi> Poor <hi>Samuel,</hi> with Eyes and Heart
+lifted up to Heaven, pray'd for <hi>Saul;</hi> but it was too late: <hi>Why do
+you ask me for him,</hi> (ſays Almighty God) when <hi>abjeci eum,
+<pb n="22" facs="tcp:56078:13"/>I have caſt him off?</hi> Remember the two firſt
+Chapters of the Prophet <hi>A<g ref="char:EOLhyphen"/>mos,</hi> where our Lord ſpeaks thus to ſeven
+different Countries, <hi>viz. Damaſ<g ref="char:EOLhyphen"/>cus, Gaza, Tyre, Edom, Ammon, Moab,</hi>
+and at laſt even to his Elect Peo<g ref="char:EOLhyphen"/>ple <hi>Juda</hi> and <hi>Iſrael: Super
+tribus Sceleribus;</hi> for three heinous Crimes, Patience: but <hi>ſuper
+quatuor non con<g ref="char:EOLhyphen"/>vertam,</hi> to the fourth no Mercy. Who knows, but this very
+Moment may be the laſt Period and Admonition, the laſt Grace which Almighty
+God hath decreed for ſome one or more of us here preſent, in ſuch manner,
+that, if it be neglected, we ſhall pe<g ref="char:EOLhyphen"/>riſh irrecoverably for all Eternity?
+<hi>Super quatuor non convertam.</hi> No, the Period is come, <hi>Mittam
+ignem,</hi> and no<g ref="char:EOLhyphen"/>thing now remains, excepting only the dreadful Torments of
+an unquencha<g ref="char:EOLhyphen"/>ble Fire.</p>
+            <p>O let us then, every one of us, en<g ref="char:EOLhyphen"/>ter into our own Souls, and
+make an <pb n="23" facs="tcp:56078:13"/>exact Scrutiny into their preſent State and
+Condition. Let us examine whe<g ref="char:EOLhyphen"/>ther Terrene and Senſual Pleaſures have not
+caſt them into the Peſtilent Fever of a violent Paſſion, ſo that
+<hi>in<g ref="char:EOLhyphen"/>cipiunt mori,</hi> they begin to die, to die (I ſay) to God and
+Heaven. If ſo, let us forthwith have recourſe to the Phyſician;
+<hi>Abeamus ad eum;</hi> let us go from all other Entertainments and Concerns
+unto him: <hi>Rogemus,</hi> let us throw our ſelves at the Sacred Feet of our
+Crucified Lord, acknowledge our Miſery, and beg his Aſſiſtance:
+<hi>Domi<g ref="char:EOLhyphen"/>ne, deſcende, priuſquàm moriatur Anima mea; O Lord,
+vouchſafe to come down to me, before my Soul be dead.</hi> O my Lord, my God,
+who didſt eſteem Sin to be ſo great an Evil, that thou thoughtſt it
+worth thy Labour to come down from Heaven to Earth, to ago<g ref="char:EOLhyphen"/>nize and die upon a
+Croſs, that thou mightſt free us from it; For what didſt thou open Five
+Divine Fountains of thy Sacred Blood, ſave only to cleanſe
+<pb n="24" facs="tcp:56078:14"/>us from ſo foul a Stain? Ah! ſhew us now, that <hi>non
+eſt abbreviata Manus Domini,</hi> that thy Mercy hath as great a reach as
+ever. Pardon us what is paſt, aſſwage the violence of our pre<g ref="char:EOLhyphen"/>ſent
+Paſſion with one drop of thy moſt precious Blood, and preſerve us from
+all Sin for the future. <hi>Deſcende,</hi> look down into our Souls, and
+be<g ref="char:EOLhyphen"/>hold, how we all endeavour to can<g ref="char:EOLhyphen"/>cel our Offences by an Act of per<g ref="char:EOLhyphen"/>fect
+Contrition, being ſorry from the bottom of our Hearts for having ever
+diſpleas'd ſo good a God, and this meerly for the Love of thy infinitely
+amiable Perſon: And for the ſame Motive we purpoſe to ſuffer whatever
+can be ſuffer'd, rather than hereafter to offend thee in the leaſt.
+Methinks, Beloved Chriſtians, methinks I am ſen<g ref="char:EOLhyphen"/>ſible, that the Bowels of
+Divine Mer<g ref="char:EOLhyphen"/>cy are already mov'd towards us; and I doubt not, but every Soul,
+that is ſeriouſly converted, feels a Pledge of Almighty God's Mercy, by
+perceiving <pb n="25" facs="tcp:56078:14"/>within her ſelf a more perfect Union with him,
+who is her Life, and by hearing from him after a peculiar manner, <hi>Anima tua
+vivit, Thy Soul lives,</hi> thy Soul is recover'd from her Diſtemper.
+<hi>Which Happineſs, through the Interceſſion of the Virgin Mother, God
+of his infinite Mercy grant us all.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:56078:15"/>
+            <head>A Catalogue of Books Printed for <hi>Henry Hills,</hi> Printer
+to the King's moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, for his Houſhold and Chappel,
+1686. And are to be Sold next door to his Houſe in <hi>Black-fryers,</hi> at
+<hi>Richard Cheeſe</hi>'s.</head>
+            <p>REflections upon the Anſwer to the <hi>Papiſt
+Miſ-repreſented, &amp;c.</hi> Directed to the Anſwerer.
+<hi>Quarto.</hi>
+            </p>
+            <p>
+               <hi>Kalendarium Catholicum</hi> for the Year 1686.
+<hi>Octavo.</hi>
+            </p>
+            <p>
+               <hi>Papiſts</hi> Preteſting againſt
+<hi>Proteſtant-Popery.</hi> In Anſwer to a Diſcourſe Entituled, <hi>A
+Papiſt not Miſ-repreſented by Pro<g ref="char:EOLhyphen"/>teſtants.</hi> Being a Vindication of
+the <hi>Papiſt Miſ-repreſented</hi> and <hi>Repreſented,</hi> and the
+<hi>Reflections</hi> upon the Anſwer. <hi>Quart.</hi>
+            </p>
+            <p>Copies of Two Papers Written by the late King <hi>Charles</hi> H.
+Together with a Paper Written by the late Dutcheſs of <hi>York.</hi>
+Publiſh'd by his Majeſty's Command. <hi>Folio.</hi>
+            </p>
+            <p>The Spirit of Chriſtianity. Publiſh'd by his Majeſty's
+Com<g ref="char:EOLhyphen"/>mand. <hi>Twelves.</hi>
+            </p>
+            <p>The Firſt Sermon Preach'd before their Majeſties in
+<hi>Engliſh</hi> at <hi>Windſor,</hi> on the firſt <hi>Sunday</hi> of
+<hi>October</hi> 1685. By the Re<g ref="char:EOLhyphen"/>verend Father <hi>Dom. Ph. Ellis,</hi> Monk of
+the Holy Order of St. <hi>Benedict,</hi> and of the <hi>Engliſh</hi>
+Congregation. Publiſh'd by his Majeſty's Command. <hi>Quarto.</hi>
+            </p>
+            <p>Second Sermond Preach'd before the King and Queen, and Queen
+Dowager, at their Majeſties Chappel at St. <hi>James's, November</hi> 1.
+1685. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of
+St. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congregation. Publiſh'd
+by his Majeſty's Com<g ref="char:EOLhyphen"/>mand. <hi>Quarto.</hi>
+            </p>
+            <pb facs="tcp:56078:15"/>
+            <p>The Third Sermon Preach'd before the King and Queen, in their
+Majeſty's Chappel at St. <hi>James</hi>'s, on the third <hi>Sunday</hi> in
+<hi>Advent, December</hi> 13. 1685. By the Reverend Father <hi>Dom. Ph.
+Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and of the
+<hi>Engliſh</hi> Congr. Chaplain in Ordinary to His Ma<g ref="char:EOLhyphen"/>jeſty. Publiſh'd
+by His Majeſty's Command. <hi>Quarto.</hi>
+            </p>
+            <p>The Fourth Sermon Preach'd before the King and Queen, in their
+Majeſties Chappel at St. <hi>Jame</hi>'s, on <hi>Newyears-day,</hi>
+168⅚. By the Reverend Father <hi>Dom. Ph. Ellis,</hi> Monk of the Holy
+Order of St. <hi>Benedict,</hi> and of the <hi>Engliſh</hi> Congre<g ref="char:EOLhyphen"/>gation,
+Chaplain in Ordinary to his Majeſty. <hi>Quarto.</hi>
+            </p>
+            <p>Sixth Sermon Preach'd before the King and Queen, in their
+Majeſties Chappel at St. <hi>James</hi>'s, upon the firſt
+<hi>Wedneſday</hi> in <hi>Lent,</hi> Febr. 24. 1685. By the Reverend Father
+<hi>Dom. Ph. Ellis,</hi> Monk of the Holy Order of St. <hi>Benedict,</hi> and
+of the <hi>Engliſh</hi> Congregation. Publiſh'd by his Majeſties
+Com<g ref="char:EOLhyphen"/>mand. <hi>Quarto.</hi>
+            </p>
+            <p>An Expoſition of the Doctrine of the Catholic Church in Mat<g ref="char:EOLhyphen"/>ters
+of Controverſie. By the Right Reverend <hi>James Benigne Boſſiset,</hi>
+Counſellor to the King, Biſhop of <hi>Meaux,</hi> formerly of
+<hi>Condom,</hi> and Preceptor to the <hi>Dauphin:</hi> Firſt Almoner to the
+<hi>Dauphineſs.</hi> Done into <hi>Engliſh</hi> with all the former
+Ap<g ref="char:EOLhyphen"/>probations, and others newly Publiſh'd in the Ninth and Laſt Editions of
+the <hi>French.</hi> Publiſh'd by his Majeſty's Com<g ref="char:EOLhyphen"/>mand.
+<hi>Quarto.</hi>
+            </p>
+            <p>A Sermon Preach'd before the King and Queen, in Their Majeſties
+Chappel at St. <hi>James</hi>'s, upon the <hi>Annunciation</hi> of our
+Bleſſed Lady, <hi>March</hi> 25. 1686. By <hi>Jo. Betham</hi> Doctor of
+<hi>Sorbon.</hi> Publiſh'd by his Majeſty's Command. <hi>Quarto.</hi>
+            </p>
+            <p>An Abſtract of the <hi>Douay Catechiſm,</hi> for the Uſe of
+Children and Ignorant People. Now Revis'd, and much Amended. Publiſh'd with
+Allowance. <hi>Twentyfours.</hi>
+            </p>
+            <p>A Paſtoral Letter from the Lord Biſhop of <hi>Meaux,</hi> to
+the <hi>New Catholics</hi> of his Dioceſs, Exhorting them to keep their
+<hi>Eaſter,</hi> and giving them Neceſſary Advertiſements-againſt the
+<hi>Falſe Paſtoral Letters</hi> of their <hi>Miniſters.</hi> With
+Re<g ref="char:EOLhyphen"/>flections upon the <hi>Pretended Perſecution.</hi> Publiſh'd with
+Al<g ref="char:EOLhyphen"/>lowance. <hi>Quarto.</hi>
+            </p>
+            <pb facs="tcp:56078:16" rendition="simple:additions"/>
+            <p>The Anſwer of the <hi>New Converts</hi> of <hi>France,</hi> to a
+<hi>Paſtoral Letter</hi> from a <hi>Proteſtant Miniſter.</hi> Done out of
+<hi>French,</hi> and Publiſh'd with Allowance. <hi>Quarto.</hi>
+            </p>
+            <p>The Ceremonies for Healing of them that be Diſeaſed with the
+Kings Evil, uſed in the time of King <hi>Henry</hi> VII. Publiſh<g ref="char:EOLhyphen"/>ed by His
+Majeſties Command. <hi>Quarto</hi> in Latin, <hi>Twelves</hi> in
+Engliſh.</p>
+            <p>A Short Chriſtian Doctrine. Compoſed by the R. Father
+<hi>Ro<g ref="char:EOLhyphen"/>bert Bellarmin,</hi> of the Society of <hi>Jeſus,</hi> and Cardinal
+Publiſh<g ref="char:EOLhyphen"/>ed with Allowance. <hi>Twelves.</hi>
+            </p>
+            <p>A Vindication of the Biſhop of <hi>Condom</hi>'s Expoſition of
+the Doctrine of the Catholic Church. In Anſwer to a Book Entituled, <hi>An
+Expoſition of the Doctrine of the Church of</hi> England, <hi>&amp;c.</hi>
+With a Letter from the ſaid Biſhop. <hi>Per<g ref="char:EOLhyphen"/>miſſis Superiorum.
+Quarto.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
